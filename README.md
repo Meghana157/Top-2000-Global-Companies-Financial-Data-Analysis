@@ -50,17 +50,7 @@ The dataset includes financial metrics for 2000 companies and contains the follo
 - **Power Query** (Automating Data Transformation)
 - **Advanced Excel Formulas** (Calculations and Deriving Insights)
 
-## 📂 Project Structure
-```
-📁 Top_2000_Companies_Analysis
-│── 📜 dataset.xlsx  # Raw financial dataset
-│── 📊 analysis.xlsx  # Processed dataset with calculations
-│── 📈 dashboard.xlsx  # Interactive Excel dashboard
-│── 📄 README.md  # Project documentation
-```
 
 ## 📌 Conclusion
 This project provides **valuable insights into the financial performance of the top 2000 companies** by leveraging data analytics techniques in Excel. The findings can help businesses and analysts make data-driven investment and market strategy decisions.
 
-## 📢 Contact
-For any queries, reach out via [LinkedIn](#) or email me at **your-email@example.com**.
